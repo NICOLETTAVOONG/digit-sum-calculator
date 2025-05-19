@@ -1,0 +1,22 @@
+{
+    "name": "数字和计算器",
+    "short_name": "数字计算器",
+    "description": "输入特定格式的数字，计算前四位和后四位的和",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3b82f6",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "splash_pages": null
+}    
